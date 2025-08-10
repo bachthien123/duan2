@@ -1,3 +1,21 @@
 h1 {
   color: blue;
 }
+.cotack {
+  background-color: aquamarine;
+}
+span {
+  background-color: pink;
+  border-radius: 999px;
+  margin: 10px 20px;
+  padding: 10px;
+  display: inline-block;
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+span:hover {
+  background-color: antiquewhite;
+}
